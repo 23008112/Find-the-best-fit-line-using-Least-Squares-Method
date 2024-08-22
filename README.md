@@ -69,7 +69,14 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](sam.png)
+![image](https://github.com/user-attachments/assets/6c0c5cc2-265f-4c4c-9fd7-2f7e128bdc52)
+
+![image](https://github.com/user-attachments/assets/c85ae3b8-4a3c-487e-ab82-b3ef3a18cd78)
+
+![image](https://github.com/user-attachments/assets/6b90d861-0de2-4a8d-8af5-b287e7f0404e)
+
+
+
 
 
 ## Result:
