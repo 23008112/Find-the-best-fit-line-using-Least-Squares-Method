@@ -79,6 +79,12 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/c85ae3b8-4a3c-487e-ab82-b3ef3a18cd78)
 
+X - Independent Variable
+Y - Dependent Variable'
+
+Linear Regression: y_predicted vs. X
+
+
 ![image](https://github.com/user-attachments/assets/6b90d861-0de2-4a8d-8af5-b287e7f0404e)
 
 ## Result:
